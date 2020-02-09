@@ -1,7 +1,4 @@
 # Learning-Android-project
-<html>
-    <head><title>#Android Studio</title></head>
-<body>
 <font color="red"><h2>#Android Studio</h2></font> 
 <style>
     #nav {
